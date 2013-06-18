@@ -809,8 +809,8 @@ article h2 a {
 /*-- pequenos trechos de chamadas --*/
 article h3 {
 	font-size: 17px;
-	line-height:21px;
-	margin:0 0 20px 0;
+	line-height:20px;
+	margin:0 0 10px 0;
 	color: #2F4F4F;
 	font-style:italic;
 }
@@ -1554,7 +1554,7 @@ img.aligncenter {
 
 .pop-up a, pop-up a:link, pop-up a:visited, pop-up a:active, a:hover {
 	color: #00688B;
-	/*text-decoration: underline;*/
+	text-decoration: underline;
 	line-height: 19px;
 	text-align: justify;
 	word-spacing: 1px;	
