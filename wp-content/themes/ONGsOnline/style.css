@@ -1525,7 +1525,7 @@ img.aligncenter {
 .show-img-tutor{ margin: -300px 0 0 0; float: left; }
 .show-tutor{ margin: -270px 0 0 420px; }
 .show-mural { margin: 40px 0 0 0; float: left; }
-.show-email{ margin: 40px 0 0 410px; }
+.show-mensagens{ margin: 40px 0 0 410px; }
 .show-conteudos{ margin: -280px 0 0 0; float: left; }
 .show-blog{ margin: -280px 0 0 410px; }
 .show-foruns{ margin: -360px 0 0 0; float: left; }
@@ -1600,32 +1600,36 @@ img.aligncenter {
 	display: none;
 }
 
+span.titlemoodle{	
+	color: #FF8247;
+	/*text-decoration: underline;*/
+	font-weight:bold;
+}
+
+
 /*-- links para ferramentas interna - moodle --*/
-a.interno-link{
-	color: /*-- #EE9A49 --*//*-- #FF7F24 --*/#FF8247;/*-- #CD853F --*/
+/*a.interno-link{
+	color: #FF8247;
 	line-height: 9px;
 	text-align:center;
 	font-weight:bold;
 	text-decoration: underline;
 }
 a.interno-link:visited, a.interno-link:active, a.interno-link:hover {
-/*	font-size: 110%;*/
 	text-decoration: underline;
 }
 
 article p a.interno-link, ul a.interno-link, ol a.interno-link{
-/*	color: /*-- #EE9A49 --*//*-- #FF7F24 --*/#FF8247;/*-- #CD853F --*/
-	/*text-decoration: underline;
+	color: #FF8247;
+	text-decoration: underline;
 	line-height: 19px;
 	text-align: justify;
 	word-spacing: 1px;	
-	font-weight: bold;*/
+	font-weight: bold;
 }
 
 article p a.interno-link:visited, a.interno-link:active, a.interno-link:hover
 article ul a.interno-link:visited, a.interno-link:active, a.interno-link:hover
 article ol a.interno-link:visited, a.interno-link:active, a.interno-link:hover{
-/*	font-size: 110%;
-	text-decoration: underline;*/
 }
-
+*/
