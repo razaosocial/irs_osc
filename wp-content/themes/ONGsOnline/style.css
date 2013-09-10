@@ -337,21 +337,21 @@ body {
 	padding:6px 15px 0px 0px;*/
 }
 
-/*paginação*/
+/*paginaï¿½ï¿½o*/
 #topMenuPages{
 	display:inline;
 	padding:0;
 	margin:0;
 } 
 
-/*paginação*/
+/*paginaï¿½ï¿½o*/
 #topMenuPages div{
 	display:inline;
 	padding:0;
 	margin:0;
 } 
 
-/*paginação*/
+/*paginaï¿½ï¿½o*/
 #topMenuPages div ul{
 	display:inline;
 	padding:0;
@@ -359,7 +359,7 @@ body {
 
 } 
 
-/*paginação*/
+/*paginaï¿½ï¿½o*/
 #topMenuPages div li{
 	display:inline;
 	padding:0;
@@ -890,7 +890,7 @@ table.contentBox{
 		opacity: 0.9;
 }
 
-/* conteúdos destaques dos boxs */
+/* conteï¿½dos destaques dos boxs */
 .span-box{	
 	font-size: 16px;
 	color: #3166ff;
@@ -1453,10 +1453,18 @@ img.aligncenter {
 	height :28px;
 	display: none;
 }
-
+.tool-glossario{
+	width: 25px;
+	height: 25px;
+	margin-top: 3px;
+        text-decoration: none;
+}
+.tool-glossario:hover{
+        text-decoration: none;
+}
 /* </style> rem: editor sintax coloring kludge */
 
-/*tabela da atividade página 53 - fernanda*/
+/*tabela da atividade pï¿½gina 53 - fernanda*/
 .table-53pag{
 	color: white;
 	width: 700px;
